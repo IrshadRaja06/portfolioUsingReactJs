@@ -6,7 +6,7 @@ import TicTacToe from './assets/tic tac toe.png'
 
 const Content = () => {
   return (
-    <div className='text-white'>
+    <div className='text-white pb-5'>
       <Bcard title='K.R.Fashion' img={k} p='Explore KR Fashion for a straightforward and efficient online shopping experience.Built using Angular and NestJS frameworks for a smooth user experience.Supported by a robust PostgreSQL database for secure and reliable transactions.
 Browse our diverse range of fashion items with ease, backed by secure payments and prompt delivery. Shop confidently with KR Fashion' link='https://irshadraja06.github.io/k.r.fashion/' github='https://github.com/IrshadRaja06/Angular'/>
       <Bcard title='Bike Service' img={Bike} p="'Keep your bike running smoothly with our expert service. Regular maintenance ensures safety and extends your bike's lifespan. Our team provides top-notch repairs, tune-ups, and inspections. From brake adjustments to tire checks, we've got you covered. Trust us for quick, reliable service at competitive prices. Ride worry-free with our comprehensive care. Book your bike service today!'" link='https://bike-service-coral.vercel.app/' github='https://github.com/IrshadRaja06/bike-service'/>

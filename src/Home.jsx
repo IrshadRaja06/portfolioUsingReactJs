@@ -5,7 +5,7 @@ import Resume from './assets/Irshad Raja K Resume.pdf';
 
 const Home = () => {
   return (
-    <div className="home-container">
+    <div className="home-container p-5 mb-5">
       <div className="profile-info text-center mb-4">
         <h1 className="name-title">Irshad Raja</h1>
         <p className="subtitle">Web Developer | Designer | Content Creator</p>
