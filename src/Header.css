@@ -1,0 +1,14 @@
+ .scroll {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .scroll::-webkit-scrollbar {
+    display: none;
+  }
+@media(min-width:1366px){
+  .d-flex{
+    display:flex;
+    justify-content: center;
+  }
+}

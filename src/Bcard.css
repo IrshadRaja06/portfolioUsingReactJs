@@ -1,0 +1,32 @@
+#i{
+    cursor: pointer;
+    font-size:xx-large;
+    padding: 10px;
+}
+#heading{
+    padding-left: 115px;
+}
+.row{
+    padding-left: 20px;
+}
+@media (max-width:1024px) {
+    #heading{
+        padding: 0px;
+    }
+    #p{
+        width: 100%;
+    }
+    .row{
+        padding: 0px;
+    }
+    
+}
+@media (max-width: 500px){
+    #heading{
+        padding: 0px;
+    }
+    .row{
+        padding: 0px;
+    }
+} 
+    
